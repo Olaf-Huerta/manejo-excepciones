@@ -1,0 +1,7 @@
+C:\Users\OCELOT\source\repos\manejoExcepciones\bin\Debug\manejoExcepciones.exe.config
+C:\Users\OCELOT\source\repos\manejoExcepciones\bin\Debug\manejoExcepciones.exe
+C:\Users\OCELOT\source\repos\manejoExcepciones\bin\Debug\manejoExcepciones.pdb
+C:\Users\OCELOT\source\repos\manejoExcepciones\obj\Debug\manejoExcepciones.csproj.AssemblyReference.cache
+C:\Users\OCELOT\source\repos\manejoExcepciones\obj\Debug\manejoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\OCELOT\source\repos\manejoExcepciones\obj\Debug\manejoExcepciones.exe
+C:\Users\OCELOT\source\repos\manejoExcepciones\obj\Debug\manejoExcepciones.pdb
